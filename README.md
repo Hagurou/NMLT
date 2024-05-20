@@ -1,1 +1,3 @@
 # NMLT
+Mình sẽ viết 1 bài về 1 số thuật toán cơ bản phù hợp cho nhập môn lập trình sau  
+Tuy là nhập môn nhưng mình cũng có sử dụng 1 số kĩ thuật cao hơn như quay lui, QHĐ hay những CTDL set, map...  
